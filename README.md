@@ -17,7 +17,7 @@ O encapsulamento é aplicado protegendo os atributos de acesso direto e permitin
 A herança permite que classes derivadas tenham atributos e métodos de classes base.
 Criamos classes derivadas (`Gerente`) que herdam atributos e métodos de `Funcionario`.
 
-`g1` é um objeto do tipo Gerente, com nome "Maria" e salário 5000.
+`g1` é um objeto do tipo Gerente, com nome "Ana" e salário 1000.
 
 ### Polimorfismo
 O polimorfismo permite que classes derivadas herdem comportamentos de classes base, permitindo que diferentes classes sejam tratadas como uma mesma classe.
